@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1 >
-	Hello World.. !! By Ishan and Navod ....Thimira
+	Hello World.. !! By Ishan and Navod ....Thimiraz
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
