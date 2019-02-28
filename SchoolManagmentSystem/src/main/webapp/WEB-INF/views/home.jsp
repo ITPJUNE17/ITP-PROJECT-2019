@@ -8,11 +8,10 @@
 	<link rel = "stylesheet" href = "<spring:url value="/resources/css/home.css" />" type="text/css"/>
 </head>
 <body>
-<h1 >
-	Hello World.. !! By Ishan and Navod .... welcome home nethmi
-	
-	sample
+<h1>
+Welocme
 </h1>
+
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
