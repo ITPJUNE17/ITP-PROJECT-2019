@@ -11,10 +11,9 @@
 <h1 >
 	Hello World.. !! By Ishan and Navod ....
 	
-	hello cristina
-test
+	
 </h1>
-
+<h2>Test</h2>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
