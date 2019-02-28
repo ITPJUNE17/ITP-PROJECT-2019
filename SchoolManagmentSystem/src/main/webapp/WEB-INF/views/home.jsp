@@ -10,6 +10,10 @@
 <body>
 <h1 >
 	Hello World.. !! By Ishan and Navod ....
+<<<<<<< HEAD
+=======
+	christina ..... test
+>>>>>>> branch 'master' of git+ssh://git@github.com/ITPJUNE17/ITP-PROJECT-2019.git
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
