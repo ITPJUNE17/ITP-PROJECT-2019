@@ -16,6 +16,7 @@
 <h2>School management system test 1</h2>
 <h2>School management system test 2</h2>
 <h2>School management system test 2</h2>
+<h2>Hari hari weda karanawa </h2>
 
 
 <P>  The time on the server is ${serverTime}. </P>
