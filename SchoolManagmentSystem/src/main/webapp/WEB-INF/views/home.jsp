@@ -13,8 +13,8 @@
 	
 	
 </h1>
-<h2>Test</h2>
-<h1>School management/h1>
+<h2>School management system test 1</h2>
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
