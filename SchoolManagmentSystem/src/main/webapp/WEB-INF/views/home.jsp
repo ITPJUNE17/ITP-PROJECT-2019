@@ -11,10 +11,8 @@
 <h1 >
 	Hello World.. !! By Ishan and Navod ....	
 </h1>
-<h2>School management system test 1</h2>
-<h2>School management system test 2</h2>
-<h2>School management system test 2</h2>
-<h2>Hari hari weda karanawa </h2>
+
+<h2>pushed 2nd time</h2>
 
 
 <P>  The time on the server is ${serverTime}. </P>
