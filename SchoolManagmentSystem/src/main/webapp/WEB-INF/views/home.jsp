@@ -10,6 +10,10 @@
 <body>
 <h1 >
 	Hello World.. !! By Ishan and Navod ....
+<<<<<<< HEAD
+=======
+	9999999999999999999999999999999999999988888888888888888888888888
+>>>>>>> branch 'master' of git+ssh://git@github.com/ITPJUNE17/ITP-PROJECT-2019.git
 	
 	
 </h1>
