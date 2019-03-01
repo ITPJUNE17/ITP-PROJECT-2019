@@ -9,13 +9,7 @@
 </head>
 <body>
 <h1 >
-	Hello World.. !! By Ishan and Navod ....
-<<<<<<< HEAD
-=======
-	9999999999999999999999999999999999999988888888888888888888888888
->>>>>>> branch 'master' of git+ssh://git@github.com/ITPJUNE17/ITP-PROJECT-2019.git
-	
-	
+	Hello World.. !! By Ishan and Navod ....	
 </h1>
 <h2>School management system test 1</h2>
 <h2>School management system test 2</h2>
